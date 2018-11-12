@@ -1,0 +1,6 @@
+C:\Users\Alexzander\Documents\C#\IterationsExercises\IterationsExercises\bin\Debug\IterationsExercises.exe.config
+C:\Users\Alexzander\Documents\C#\IterationsExercises\IterationsExercises\bin\Debug\IterationsExercises.exe
+C:\Users\Alexzander\Documents\C#\IterationsExercises\IterationsExercises\bin\Debug\IterationsExercises.pdb
+C:\Users\Alexzander\Documents\C#\IterationsExercises\IterationsExercises\obj\Debug\IterationsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Alexzander\Documents\C#\IterationsExercises\IterationsExercises\obj\Debug\IterationsExercises.exe
+C:\Users\Alexzander\Documents\C#\IterationsExercises\IterationsExercises\obj\Debug\IterationsExercises.pdb

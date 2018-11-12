@@ -1,0 +1,7 @@
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\bin\Debug\ConditionsExercises.exe.config
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\bin\Debug\ConditionsExercises.exe
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\bin\Debug\ConditionsExercises.pdb
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\obj\Debug\ConditionsExercises.csprojAssemblyReference.cache
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\obj\Debug\ConditionsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\obj\Debug\ConditionsExercises.exe
+C:\Users\Alexzander\Documents\C#\ConditionsExercises\ConditionsExercises\obj\Debug\ConditionsExercises.pdb

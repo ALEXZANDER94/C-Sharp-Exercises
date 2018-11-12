@@ -1,0 +1,7 @@
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\bin\Debug\ArraysAndListExercises.exe.config
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\bin\Debug\ArraysAndListExercises.exe
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\bin\Debug\ArraysAndListExercises.pdb
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\obj\Debug\ArraysAndListExercises.csprojAssemblyReference.cache
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\obj\Debug\ArraysAndListExercises.csproj.CoreCompileInputs.cache
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\obj\Debug\ArraysAndListExercises.exe
+C:\Users\Alexzander\Documents\C#\ArraysAndListExercises\ArraysAndListExercises\obj\Debug\ArraysAndListExercises.pdb
